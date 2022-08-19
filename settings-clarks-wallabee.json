@@ -1,0 +1,21 @@
+{
+	"id": 1,
+	"modelID": 2,
+	"backgroundColor": "ebebeb",
+	"cameraControlType": "FLOOR_RESTRICTED",
+	"toneMapping": "ReinhardToneMapping",
+	"directLightIntensity": 1.7,
+  	"directLightColor": "cfa742",
+  	"ambientLightIntensity": 2.4,
+  	"ambientLightColor": "ffffff",
+  	"displayShadows": true,
+  	"shadowBlur": 1.0,
+  	"shadowOpacity": 1.0,
+  	"shadowVerticalOffset" : 9.8,
+  	"cameraPositionX": 50.0,
+  	"cameraPositionY": 50.0,
+  	"cameraPositionZ": 50.0,
+  	"focalLengthInMM": 50,
+  	"createdAt": "2022-08-17T12:01:46.500Z",
+  	"updatedAt": "2022-08-17T12:01:46.500Z"
+}
