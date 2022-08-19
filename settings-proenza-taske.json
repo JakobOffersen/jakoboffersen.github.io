@@ -8,7 +8,7 @@
   	"directLightColor": "ffffff",
   	"ambientLightIntensity": 0.7,
   	"ambientLightColor": "ffffff",
-  	"displayShadows": true,
+  	"displayShadows": false,
   	"shadowBlur": 1.0,
   	"shadowOpacity": 1.0,
   	"shadowVerticalOffset" : 9.8,
